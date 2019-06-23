@@ -17,7 +17,7 @@ This is my official portfolio. This is a living portfolio and will evolve as I d
 
 Open index.html file via browser (Chrome preferred)
 
-Or visit application via https://blakemarter.github.io/Responsive-Portfolio/.
+Or visit application via https://blakemarter.github.io/Portfolio2.0/.
 
 ## __Check Me Out__
 
